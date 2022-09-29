@@ -135,7 +135,6 @@ nav a:focus{
 /* Step 3: Write selector/rule property to style all elements when in focus*/
 * :focus{
   border: solid 2px white;
-  background-color: rgb(215, 165, 103);
   
   
 
